@@ -1,0 +1,1 @@
+print("Cleaning scheme performance data")
